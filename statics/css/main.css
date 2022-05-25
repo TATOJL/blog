@@ -22,3 +22,13 @@
     text-align: left;
     margin-bottom: 50px;
 }
+@media  screen and (max-width:500px) {
+  .container{
+      max-width: 300px;
+  }  
+  .url{
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+}
